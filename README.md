@@ -1,2 +1,2 @@
 # Numpy
-Apprentissage de Numpy
+Apprentissage de Numpy pour du ML
